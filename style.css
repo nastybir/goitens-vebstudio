@@ -1,0 +1,53 @@
+
+/* primary-color:color  #212121;
+tex-color: color:
+secondary-link-color: color: rgba(255, 255, 255, 0.6);
+accent-color: color: #2196F3;
+text: color: #FFFFFF
+*/
+
+
+/* Header */
+.logo {
+    color:#000000; 
+}
+.logo-span,.nav-link-portfolio, .nav-link:hover, .nav-link:focus, .mail
+{
+   color: #2196F3;
+}
+.nav-link, .list-item,.head-title, .second-title, .third-title,.name {
+    color: #212121;
+}
+
+ .note, .Qualifying, .direction { color: #757575;
+
+}
+.hero-section {
+    background-color: #2F303A ;
+}
+.hero-title
+{
+    color:#FFFFFF ;
+}
+
+.section-team {
+
+    background-color: #F5F4FA;
+}
+/* footer */
+
+.section-footer {
+    background-color: #2F303A;
+}
+.email, .tel {
+
+    color: rgba(255, 255, 255, 0.6);
+}
+.adrdess-link {
+    color: #FFFFFF;
+}
+
+/* portfolio */
+.section-link, .section-portfolio {
+    background-color: #E5E5E5;
+}
